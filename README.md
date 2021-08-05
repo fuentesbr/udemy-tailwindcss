@@ -1,5 +1,6 @@
 Instalar tailwind
 
+npm init -y
 npm install tailwindcss@latest  postcss@latest autoprefixer@latest
 
 Build
